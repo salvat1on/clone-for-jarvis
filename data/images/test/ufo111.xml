@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>ufo111.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/ufo111.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>168</width>
+		<height>300</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>UFO</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>51</xmin>
+			<ymin>91</ymin>
+			<xmax>96</xmax>
+			<ymax>112</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>taser36.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/taser36.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>271</width>
+		<height>186</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>taser</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>41</ymin>
+			<xmax>143</xmax>
+			<ymax>164</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>THREAT !!</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>37</ymin>
+			<xmax>149</xmax>
+			<ymax>169</ymax>
+		</bndbox>
+	</object>
+</annotation>

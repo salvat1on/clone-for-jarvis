@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>police10.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/police10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>267</width>
+		<height>189</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>riot police</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>95</xmin>
+			<ymin>30</ymin>
+			<xmax>205</xmax>
+			<ymax>189</ymax>
+		</bndbox>
+	</object>
+</annotation>

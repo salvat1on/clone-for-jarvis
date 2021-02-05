@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>firetruck10.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/firetruck10.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>firetruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>74</xmin>
+			<ymin>15</ymin>
+			<xmax>264</xmax>
+			<ymax>131</ymax>
+		</bndbox>
+	</object>
+</annotation>

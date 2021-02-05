@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>state-police-vehicles8.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/state-police-vehicles8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>275</width>
+		<height>183</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>state police crusier</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>48</xmin>
+			<ymin>47</ymin>
+			<xmax>260</xmax>
+			<ymax>144</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>state police SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>34</ymin>
+			<xmax>135</xmax>
+			<ymax>108</ymax>
+		</bndbox>
+	</object>
+</annotation>

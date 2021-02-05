@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>baton26.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/baton26.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>310</width>
+		<height>162</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>26</xmin>
+			<ymin>28</ymin>
+			<xmax>278</xmax>
+			<ymax>132</ymax>
+		</bndbox>
+	</object>
+</annotation>

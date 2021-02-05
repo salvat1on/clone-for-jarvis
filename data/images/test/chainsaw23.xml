@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>chainsaw23.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/chainsaw23.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>371</width>
+		<height>136</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chainsaw</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>2</ymin>
+			<xmax>368</xmax>
+			<ymax>136</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>knife41.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/knife41.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>225</width>
+		<height>225</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>92</ymin>
+			<xmax>225</xmax>
+			<ymax>135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>THREAT !!</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>88</ymin>
+			<xmax>225</xmax>
+			<ymax>141</ymax>
+		</bndbox>
+	</object>
+</annotation>

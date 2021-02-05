@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>bat-66.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/bat-66.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>268</width>
+		<height>188</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baseball bat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>10</xmin>
+			<ymin>14</ymin>
+			<xmax>260</xmax>
+			<ymax>160</ymax>
+		</bndbox>
+	</object>
+</annotation>

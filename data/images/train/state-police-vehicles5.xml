@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>state-police-vehicles5.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/state-police-vehicles5.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>state police HSP</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>49</ymin>
+			<xmax>276</xmax>
+			<ymax>140</ymax>
+		</bndbox>
+	</object>
+</annotation>

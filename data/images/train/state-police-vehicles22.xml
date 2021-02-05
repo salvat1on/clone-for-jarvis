@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>state-police-vehicles22.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/state-police-vehicles22.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>287</width>
+		<height>176</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>state police SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>35</xmin>
+			<ymin>30</ymin>
+			<xmax>267</xmax>
+			<ymax>153</ymax>
+		</bndbox>
+	</object>
+</annotation>

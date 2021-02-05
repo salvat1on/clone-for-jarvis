@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>police-vehicle19.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/police-vehicle19.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>police SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>21</xmin>
+			<ymin>23</ymin>
+			<xmax>243</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>police SUV</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>204</xmin>
+			<ymin>25</ymin>
+			<xmax>300</xmax>
+			<ymax>93</ymax>
+		</bndbox>
+	</object>
+</annotation>

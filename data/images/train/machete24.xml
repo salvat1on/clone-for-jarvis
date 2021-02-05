@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>machete24.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/machete24.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>259</width>
+		<height>194</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>machete</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2</xmin>
+			<ymin>82</ymin>
+			<xmax>259</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>THREAT !!</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>78</ymin>
+			<xmax>259</xmax>
+			<ymax>113</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>undercover-vehicle1.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/undercover-vehicle1.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>300</width>
+		<height>168</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>undercover police vehicle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>13</xmin>
+			<ymin>12</ymin>
+			<xmax>287</xmax>
+			<ymax>158</ymax>
+		</bndbox>
+	</object>
+</annotation>

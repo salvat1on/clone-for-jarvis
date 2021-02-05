@@ -1,0 +1,38 @@
+<annotation>
+	<folder>test</folder>
+	<filename>guns7.jpg</filename>
+	<path>/root/object_detection_demo-master/data/images/test/guns7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>256</width>
+		<height>197</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>hand gun</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>32</xmin>
+			<ymin>17</ymin>
+			<xmax>197</xmax>
+			<ymax>190</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>THREAT !!</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>11</ymin>
+			<xmax>207</xmax>
+			<ymax>197</ymax>
+		</bndbox>
+	</object>
+</annotation>
