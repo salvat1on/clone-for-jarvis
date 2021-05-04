@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>86.jpg</filename>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/86.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>knife</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>65</xmin>
+			<ymin>133</ymin>
+			<xmax>735</xmax>
+			<ymax>450</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>53</xmin>
+			<ymin>125</ymin>
+			<xmax>746</xmax>
+			<ymax>461</ymax>
+		</bndbox>
+	</object>
+</annotation>

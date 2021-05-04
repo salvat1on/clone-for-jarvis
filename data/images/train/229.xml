@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>229.jpg</filename>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/229.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>1</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>baton</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>93</xmin>
+			<ymin>35</ymin>
+			<xmax>691</xmax>
+			<ymax>574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>83</xmin>
+			<ymin>28</ymin>
+			<xmax>710</xmax>
+			<ymax>584</ymax>
+		</bndbox>
+	</object>
+</annotation>

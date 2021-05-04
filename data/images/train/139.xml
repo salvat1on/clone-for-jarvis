@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>139.jpg</filename>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/139.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>tazer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>116</ymin>
+			<xmax>597</xmax>
+			<ymax>492</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>103</xmin>
+			<ymin>109</ymin>
+			<xmax>612</xmax>
+			<ymax>507</ymax>
+		</bndbox>
+	</object>
+</annotation>

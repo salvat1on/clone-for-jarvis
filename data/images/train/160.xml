@@ -1,0 +1,38 @@
+<annotation>
+	<folder>train</folder>
+	<filename>160.jpg</filename>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/160.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>assultrifle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>65</ymin>
+			<xmax>773</xmax>
+			<ymax>535</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>50</ymin>
+			<xmax>788</xmax>
+			<ymax>551</ymax>
+		</bndbox>
+	</object>
+</annotation>

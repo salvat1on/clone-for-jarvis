@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>train</folder>
 	<filename>15.jpg</filename>
-	<path>/root/object_detection_demo-master/data/images/test/15.jpg</path>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/15.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,39 +12,27 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>monitor</name>
+		<name>policecar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>71</xmin>
-			<ymin>27</ymin>
-			<xmax>552</xmax>
-			<ymax>395</ymax>
+			<xmin>138</xmin>
+			<ymin>156</ymin>
+			<xmax>756</xmax>
+			<ymax>466</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>keyboard</name>
+		<name>policecar</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>88</xmin>
-			<ymin>376</ymin>
-			<xmax>561</xmax>
-			<ymax>537</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>mouse</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>623</xmin>
-			<ymin>447</ymin>
-			<xmax>715</xmax>
-			<ymax>558</ymax>
+			<xmin>130</xmin>
+			<ymin>116</ymin>
+			<xmax>402</xmax>
+			<ymax>360</ymax>
 		</bndbox>
 	</object>
 </annotation>

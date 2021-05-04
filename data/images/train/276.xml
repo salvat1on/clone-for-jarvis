@@ -1,62 +1,26 @@
 <annotation>
-	<folder>test</folder>
+	<folder>train</folder>
 	<filename>276.jpg</filename>
-	<path>/root/object_detection_demo-master/data/images/test/276.jpg</path>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/276.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
 	<size>
-		<width>600</width>
-		<height>800</height>
+		<width>800</width>
+		<height>600</height>
 		<depth>3</depth>
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>car</name>
+		<name>drone</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>310</xmin>
-			<ymin>477</ymin>
-			<xmax>572</xmax>
-			<ymax>578</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>street sign</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>409</xmin>
-			<ymin>65</ymin>
-			<xmax>561</xmax>
-			<ymax>786</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>street sign</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>416</xmin>
-			<ymin>66</ymin>
-			<xmax>544</xmax>
-			<ymax>240</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>street sign</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>405</xmin>
-			<ymin>223</ymin>
-			<xmax>528</xmax>
-			<ymax>399</ymax>
+			<xmin>5</xmin>
+			<ymin>81</ymin>
+			<xmax>800</xmax>
+			<ymax>533</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>433.jpg</filename>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/433.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>policecar</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>35</ymin>
+			<xmax>690</xmax>
+			<ymax>497</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>565.jpg</filename>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/565.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>firetruck</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>8</xmin>
+			<ymin>74</ymin>
+			<xmax>786</xmax>
+			<ymax>538</ymax>
+		</bndbox>
+	</object>
+</annotation>

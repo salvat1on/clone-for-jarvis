@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>train</folder>
 	<filename>11.jpg</filename>
-	<path>/root/object_detection_demo-master/data/images/test/11.jpg</path>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/11.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,51 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>chair</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>243</xmin>
-			<ymin>169</ymin>
-			<xmax>549</xmax>
-			<ymax>600</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>pc tower</name>
+		<name>computer</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>4</xmin>
-			<ymin>373</ymin>
-			<xmax>81</xmax>
-			<ymax>594</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>monitor</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>23</xmin>
-			<ymin>14</ymin>
-			<xmax>211</xmax>
-			<ymax>172</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>keyboard</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>65</xmin>
-			<ymin>182</ymin>
-			<xmax>240</xmax>
-			<ymax>237</ymax>
+			<xmin>72</xmin>
+			<ymin>38</ymin>
+			<xmax>557</xmax>
+			<ymax>523</ymax>
 		</bndbox>
 	</object>
 	<object>
@@ -65,58 +29,34 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>237</xmin>
-			<ymin>177</ymin>
-			<xmax>270</xmax>
-			<ymax>208</ymax>
+			<xmin>611</xmin>
+			<ymin>454</ymin>
+			<xmax>728</xmax>
+			<ymax>574</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>window</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>91</xmin>
-			<ymin>3</ymin>
-			<xmax>800</xmax>
-			<ymax>174</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>tupperware</name>
+		<name>keyboard</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>555</xmin>
-			<ymin>343</ymin>
-			<xmax>680</xmax>
-			<ymax>454</ymax>
+			<xmin>101</xmin>
+			<ymin>377</ymin>
+			<xmax>571</xmax>
+			<ymax>540</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>mug</name>
+		<name>monitor</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>7</xmin>
-			<ymin>172</ymin>
-			<xmax>41</xmax>
-			<ymax>208</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>desk</name>
-		<pose>Unspecified</pose>
-		<truncated>1</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>1</xmin>
-			<ymin>154</ymin>
-			<xmax>597</xmax>
-			<ymax>272</ymax>
+			<xmin>61</xmin>
+			<ymin>32</ymin>
+			<xmax>560</xmax>
+			<ymax>392</ymax>
 		</bndbox>
 	</object>
 </annotation>

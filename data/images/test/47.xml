@@ -1,7 +1,7 @@
 <annotation>
-	<folder>test</folder>
+	<folder>train</folder>
 	<filename>47.jpg</filename>
-	<path>/root/object_detection_demo-master/data/images/test/47.jpg</path>
+	<path>/home/redteam/i-n eed-2021/object_detection_demo-master/data/images/train/47.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -12,159 +12,63 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
+		<name>bat</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>238</xmin>
+			<ymin>15</ymin>
+			<xmax>483</xmax>
+			<ymax>291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>weapon</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>230</xmin>
+			<ymin>13</ymin>
+			<xmax>493</xmax>
+			<ymax>303</ymax>
+		</bndbox>
+	</object>
+	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>546</xmin>
-			<ymin>281</ymin>
-			<xmax>622</xmax>
-			<ymax>430</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>trashcan</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>10</xmin>
-			<ymin>361</ymin>
-			<xmax>74</xmax>
-			<ymax>456</ymax>
+			<xmin>313</xmin>
+			<ymin>83</ymin>
+			<xmax>521</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
 		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>722</xmin>
-			<ymin>289</ymin>
-			<xmax>754</xmax>
-			<ymax>319</ymax>
+			<xmin>360</xmin>
+			<ymin>451</ymin>
+			<xmax>506</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 	<object>
-		<name>traffic light</name>
+		<name>person</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>47</ymin>
-			<xmax>150</xmax>
-			<ymax>128</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>traffic light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>700</xmin>
-			<ymin>146</ymin>
-			<xmax>728</xmax>
-			<ymax>187</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>traffic light</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>7</xmin>
-			<ymin>117</ymin>
-			<xmax>60</xmax>
-			<ymax>208</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>7</xmin>
-			<ymin>269</ymin>
-			<xmax>157</xmax>
-			<ymax>362</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>624</xmin>
-			<ymin>291</ymin>
-			<xmax>752</xmax>
-			<ymax>356</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>154</xmin>
-			<ymin>288</ymin>
-			<xmax>237</xmax>
-			<ymax>346</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>347</xmin>
-			<ymin>292</ymin>
-			<xmax>420</xmax>
-			<ymax>338</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>car</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>451</xmin>
-			<ymin>290</ymin>
-			<xmax>533</xmax>
-			<ymax>339</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>street lamp</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>537</xmin>
-			<ymin>164</ymin>
-			<xmax>585</xmax>
-			<ymax>326</ymax>
-		</bndbox>
-	</object>
-	<object>
-		<name>street lamp</name>
-		<pose>Unspecified</pose>
-		<truncated>0</truncated>
-		<difficult>0</difficult>
-		<bndbox>
-			<xmin>578</xmin>
-			<ymin>215</ymin>
-			<xmax>607</xmax>
-			<ymax>287</ymax>
+			<xmin>2</xmin>
+			<ymin>230</ymin>
+			<xmax>227</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>
